@@ -4,6 +4,8 @@ Aplicación web para participar de una promoción: el usuario ingresa un código
 
 > Trabajo Práctico de **Programación III** de la Tecnicatura Universitaria en Programación (UTN), desarrollado por el **Equipo 10A**.
 
+![Página de premios de Promo Gana: catálogo de premios en cards con carrusel de imágenes](docs/captura-premios.jpg)
+
 ## ✨ Flujo de la aplicación
 
 1. **Ingreso del voucher** → se valida que el código exista y no haya sido canjeado.
